@@ -9,8 +9,8 @@ Personal LeetCode practice log — part of B25GE0101 portfolio.
 
 * [Arrays & Strings](./arrays-strings/)
 * [Basic Algorithms](./basic-algorithms/)
-* [Stacks](./stacks/)
-* [Linked Lists](./linked-lists/)
+* [Stacks & Linked Lists](./Stacks & Linked Lists/)
+*
 
 ## Problems Solved
 
@@ -23,4 +23,4 @@ Personal LeetCode practice log — part of B25GE0101 portfolio.
 | 5   | Longest Common Prefix           | Arrays & Strings | Easy-Medium |
 | 6   | Binary Search                   | Basic Algorithms | Easy-Medium |
 | 7   | Valid Parentheses               | Stacks           | Easy-Medium |
-| 8   | Reverse Linked List             | Linked Lists     | Easy-Medium |
+
